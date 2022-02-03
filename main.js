@@ -1,4 +1,4 @@
-import { getCompanies, getRoles } from './modules/salaryData';
+import { getCompanies, getRoles } from "./modules/salaryData.js";
 const companies = getCompanies();
 const roles = getRoles();
 
